@@ -1,0 +1,494 @@
+1586615124819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Renuka\\AppData\\Local\\Temp\\rust_mozprofileDI7uUA"
+1586615130545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586615134470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586615134471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586615134472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586615134473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/SanityTest.jsm, line 314: TypeError: this.mm is null
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+1586615140013	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615140015	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615140024	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615140026	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 430: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 34: TypeError: this._browser.frameLoader.remoteTab is null
+[Parent 2968, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://browser/content/browser.js, line 7994: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5274: TypeError: browser.webProgress is null
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[Parent 2968, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 401
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ 684
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+1586615207322	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615207323	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615207324	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615207324	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 430: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 34: TypeError: this._browser.frameLoader.remoteTab is null
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 2648, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://browser/content/browser.js, line 7994: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5274: TypeError: browser.webProgress is null
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[Parent 2648, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 401
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+1586615258799	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615258801	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615258802	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615258802	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 430: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 34: TypeError: this._browser.frameLoader.remoteTab is null
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 6000, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://browser/content/browser.js, line 7994: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5274: TypeError: browser.webProgress is null
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[Parent 6000, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 401
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+33993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2357 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2357:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+1586615361553	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615361554	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615361555	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+1586615361555	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2357:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2357:39
+build@ext-backgroundPage.js:73:20
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 430: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1640: TypeError: messageManager is null
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1193: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 34: TypeError: this._browser.frameLoader.remoteTab is null
+[Parent 7852, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+JavaScript error: chrome://browser/content/browser.js, line 7994: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5274: TypeError: browser.webProgress is null
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[Parent 7852, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 401
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
